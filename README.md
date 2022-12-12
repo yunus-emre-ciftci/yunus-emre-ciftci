@@ -1,7 +1,7 @@
 ## Hello, I'm Yunus Emre. 👋
 
 
-  <img align="middle" alt="GIF" width="920" height="220" src="https://mograph.video/2Z5bOIJ" />
+  
 
 
 <h3 align="middle"> I graduated from Sakarya University, Department of International Relations in 2021. Now, I work as a civil servant in the Ministry of Treasury and Finance in Istanbul. At the same time, I'm studying computer programming at Istanbul University and I'm learning Java.
