@@ -1,5 +1,5 @@
 # 💫 About Me:
-I graduated from Sakarya University, Department of International Relations in 2021. Now, I work as a civil servant in the Ministry of Treasury and Finance in Istanbul. At the same time, I'm studying computer programming at Istanbul University and I'm learning Java.<br>
+I graduated from Sakarya University, Department of International Relations in 2021. I worked as a civil servant in the Ministry of Treasury and Finance in Istanbul. Now, I work as a Service Attendant in the Ziraat Katılım Bank in Kocaeli. At the same time, I'm studying computer programming at Istanbul University and I'm learning Java.<br>
 
 
 ## 🌐 Socials:
